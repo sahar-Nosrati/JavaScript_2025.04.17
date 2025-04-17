@@ -1,1 +1,2 @@
-# JavaScript_2025.04.17
+# JavaScript practice
+  - Solve JS challange
